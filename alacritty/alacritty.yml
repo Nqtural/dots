@@ -1,0 +1,46 @@
+window:
+  padding:
+    x: 20
+    y: 20
+
+  opacity: 0.8
+
+font:
+  normal:
+    style: Regular
+    family: FiraCode Nerd Font Mono
+  size: 10
+
+cursor:
+  style:
+    # Available: Beam, Block, Underline
+    shape: Beam
+    blinking: On
+    blink-interval: 444450
+
+colors:
+  # Default colors
+  primary:
+    background: '0x000000'
+    foreground: '0xffffff'
+
+  # Normal colors
+  normal:
+    black:   '0x000000'
+    red:     '0xc62726'
+    green:   '0x3bc626'
+    yellow:  '0xc6c426'
+    blue:    '0x253bc6'
+    magenta: '0xc226c6'
+    cyan:    '0x26c6c6'
+    white:   '0xe5e5e5'
+  # Bright colors
+  bright:
+    black:   '0x4d4d4d'
+    red:     '0xff3531'
+    green:   '0x4eff31'
+    yellow:  '0xfffe31'
+    blue:    '0x304cff'
+    magenta: '0xfa31ff'
+    cyan:    '0x31ffff'
+    white:   '0xffffff'
